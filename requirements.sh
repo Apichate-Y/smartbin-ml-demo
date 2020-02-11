@@ -6,7 +6,7 @@ sudo apt-get -y install libxvidcore-dev libx264-dev
 sudo apt-get -y install qt4-dev-tools libatlas-base-dev
 wget https://bootstrap.pypa.io/get-pip.py
 sudo python3 get-pip.py
-pip3 install opencv-python==4.1.0
+pip3 install opencv-python==4.1.0.25
 
 # install keras
 
